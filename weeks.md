@@ -23,7 +23,12 @@ Final simulation rounds, reflection on what worked — and the week where I
 built the **Cesim decision-support agent** and started the **3D logistics
 project** for LLM Applications.
 
+## [Week 4 — In progress]({{ '/weeks/04/' | relative_url }})
+
+The semester routine sets in: going deeper in courses and projects. Recap
+follows at the end of the week.
+
 ---
 
-*Weeks 4+ will follow in the same format: highlights, course takeaways,
-tech observations, reflection.*
+*Each week follows the same format: highlights, course takeaways, tech
+observations, reflection.*

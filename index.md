@@ -3,25 +3,32 @@ layout: home
 title: "AI Engineering in Shenzhen"
 ---
 
-Hi, I'm **Marius** — spending my semester abroad at **Shenzhen Technology
-University (SZTU)**. I came to China for two reasons: to experience a new
-culture, and to see first-hand **why technology and AI are developed and
-adopted so fast here**.
-
-This site is my portfolio and learning journal: what I take away from my
-courses, what I build, and what I observe in Shenzhen's tech ecosystem.
+<div class="hero">
+  <p class="hero-kicker">Semester abroad · Shenzhen Technology University</p>
+  <h1>AI Engineering in Shenzhen</h1>
+  <p class="lead">Hi, I'm <strong>Marius Keck</strong>. I came to China to experience a new culture — and to see first-hand why technology and AI move from lab to street so fast here. This is my portfolio and learning journal.</p>
+  <div class="btn-row">
+    <a class="btn btn-primary" href="{{ '/projects/' | relative_url }}">View projects</a>
+    <a class="btn btn-ghost" href="{{ '/weeks/' | relative_url }}">Weeks 1–3</a>
+  </div>
+</div>
 
 ## Featured projects
 
-- **Cesim Decision-Support Agent** — during the Summer School business
-  simulation I built a small agent on the [Pi agent harness](https://github.com/badlogic/pi-mono)
-  that supports Cesim data analysis: it crunches round results with Python
-  and explains recommendations in plain language.
-  [Read more →]({{ '/projects/cesim-agent/' | relative_url }})
-- **Agentic 3D Logistics Planner** *(in progress)* — my LLM Applications
-  course project: a 3D logistics tool where AI agents plan transports and
-  warehouse flows, visually and interactively.
-  [Read more →]({{ '/projects/logistics-3d/' | relative_url }})
+<div class="card-grid">
+  <div class="card">
+    <span class="tag">Business Simulation · working prototype</span>
+    <h3>Cesim Decision-Support Agent</h3>
+    <p>During the Summer School Unternehmensplanspiel I built an agent on the Pi harness that crunches Cesim round data with Python and explains recommendations in plain language.</p>
+    <p><a href="{{ '/projects/cesim-agent/' | relative_url }}">Read more →</a></p>
+  </div>
+  <div class="card">
+    <span class="tag tag-blue">LLM Applications · in progress</span>
+    <h3>Agentic 3D Logistics Planner</h3>
+    <p>A 3D logistics tool where AI agents plan transports and warehouse flows — visually, interactively, and explainably.</p>
+    <p><a href="{{ '/projects/logistics-3d/' | relative_url }}">Read more →</a></p>
+  </div>
+</div>
 
 ## First three weeks
 
@@ -30,18 +37,18 @@ courses, what I build, and what I observe in Shenzhen's tech ecosystem.
 | [Week 1]({{ '/weeks/01/' | relative_url }}) | Arrival, onboarding, first lectures, first Shenzhen impressions |
 | [Week 2]({{ '/weeks/02/' | relative_url }}) | Courses kick off, Summer School business simulation begins |
 | [Week 3]({{ '/weeks/03/' | relative_url }}) | Simulation final rounds, Cesim agent built, logistics project started |
+| [Week 4]({{ '/weeks/04/' | relative_url }}) | Ongoing: deepening courses and projects |
 
 ## Courses this semester
 
-- LLM Applications
-- Reinforcement Learning
-- Tactile Robotics
-- Personal Branding
-- Business Simulation (Summer School Unternehmensplanspiel)
+- 🤖 LLM Applications
+- 🧠 Reinforcement Learning
+- 🦾 Tactile Robotics
+- 👤 Personal Branding
+- 💼 Business Simulation (Summer School Unternehmensplanspiel ✅)
 
 Details and takeaways: [Courses →]({{ '/courses/' | relative_url }})
 
 ---
 
-> **TODO for me:** add contact links (LinkedIn, e-mail) once I decide what
-> to make public. See `about.md`.
+> **TODO for me:** add contact links (LinkedIn, e-mail) once I decide what to make public. See `about.md`.

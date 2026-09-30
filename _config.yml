@@ -4,7 +4,7 @@ description: >-
   Portfolio of my semester abroad at
   Shenzhen Technology University (SZTU).
 author:
-  name: "Marius" # TODO: full name as you want it displayed
+  name: "Marius Keck"
 
 theme: minima
 plugins:
@@ -17,11 +17,12 @@ header_pages:
   - courses.md
   - weeks.md
   - projects.md
+  - hobbies.md
 
 # Social links — fill in what you want public
 minima:
   social_links:
     github: marius788
-    # linkedin: TODO-your-handle
+    linkedin: marius-keck-01948a284
 
 permalink: pretty
