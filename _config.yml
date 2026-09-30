@@ -1,0 +1,27 @@
+# GitHub Pages settings (Jekyll + Minima, no build step needed)
+title: "Marius · AI Engineering in Shenzhen"
+description: >-
+  Portfolio of my semester abroad at
+  Shenzhen Technology University (SZTU).
+author:
+  name: "Marius" # TODO: full name as you want it displayed
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Top navigation (order matters)
+header_pages:
+  - about.md
+  - courses.md
+  - weeks.md
+  - projects.md
+
+# Social links — fill in what you want public
+minima:
+  social_links:
+    github: marius788
+    # linkedin: TODO-your-handle
+
+permalink: pretty
