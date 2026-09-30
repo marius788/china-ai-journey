@@ -3,8 +3,7 @@ title: "Marius · AI Engineering in Shenzhen"
 description: >-
   Portfolio of my semester abroad at
   Shenzhen Technology University (SZTU).
-author:
-  name: "Marius Keck"
+author: "Marius Keck"
 
 theme: minima
 plugins:
@@ -22,7 +21,9 @@ header_pages:
 # Social links — fill in what you want public
 minima:
   social_links:
-    github: marius788
-    linkedin: marius-keck-01948a284
+    - platform: github
+      user_url: https://github.com/marius788
+    - platform: linkedin
+      user_url: https://www.linkedin.com/in/marius-keck-01948a284/
 
 permalink: pretty

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weeks 1–3
+title: Weeks
 permalink: /weeks/
 ---
 

@@ -51,4 +51,4 @@ Details and takeaways: [Courses →]({{ '/courses/' | relative_url }})
 
 ---
 
-> **TODO for me:** add contact links (LinkedIn, e-mail) once I decide what to make public. See `about.md`.
+> **TODO for me:** decide on a public e-mail address. See `about.md`.
